@@ -1,4 +1,4 @@
-# OGC Moving Features Tutorial Documents Portal
+# OGC Moving Features
 
 ## What is focused on in this web site
 OGC Moving Features is an OGC standard to handle geometries of many features that move, especially trajectories.
