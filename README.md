@@ -93,4 +93,4 @@ Use cases of OGC Moving Features are exampled in a discussion paper, [OGC Standa
 
 ---
 ## Tutorial Documents
-- [OGC Moving Features Encoding CSV loader in python](LoadOGCMovingFeaturesCSV.ipynb) (jupyter notebook)
+- [OGC Moving Features Encoding CSV loader in python](Load+OGC+Moving+Features+CSV.ipynb) (jupyter notebook)
