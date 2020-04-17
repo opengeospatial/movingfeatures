@@ -1,0 +1,6 @@
+@stboundedby,urn:x-ogc:def:crs:EPSG:6.6:4326,2D,50.23 9.23,50.31 9.27,2012-01-17T12:33:41Z,2012-01-17T12:37:00Z,sec
+@columns,mfidref,trajectory,state,xsd:token,"type code",xsd:integer
+a,10,120,35.6815 139.7651 35.6820 139.7661,walking,1
+b,10,190,35.6811 139.7662 35.6818 139.7661,walking,2
+a,120,150,35.6820 139.7661 35.6834 139.7662,walking,2
+a,150,190,35.6834 139.7662 35.6835 139.7663,walking,2
