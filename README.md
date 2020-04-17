@@ -55,7 +55,7 @@ The specification is [here](http://docs.opengeospatial.org/is/14-084r2/14-084r2.
 This OGC Standard specifies abstract methods to access a database storing trajectory data of moving features.
 The specification document is shown [here](http://docs.opengeospatial.org/is/16-120r3/16-120r3.html).
 
-![OGC Moving Features](access.png)
+![OGC Moving Features](/img/access.png)
 
 The figure summarizes the operations of existing access standards and Moving Features Access. Operations for geometry objects have been supported by OGC 06-103r4 (OpenGIS Implementation Standard for Geographic information - Simple feature access - Part 1: Common architecture) and ISO 13249-3 (Information technology — Database languages — SQL multimedia and application packages Part3: Spatial). Elements of trajectory operations are defined in ISO19141:2008.
 
