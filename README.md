@@ -19,12 +19,12 @@ Namely they have the following characteristics:
 - The number of features simultaneously encoded with this format can be massive (many thousands of features).
 - All features can be described using common space-time coordinates.
 
-![OGC Moving Features](applications.png)
+![OGC Moving Features](/img/applications.png)
 
 As shown the figure, systems relying on single-source moving feature data are now evolving into more integrated systems. Integration of moving feature data from different sources is a key to developing more innovative and advanced applications.
 
 
-![OGC Moving Features](modularity.png)
+![OGC Moving Features](/img/modularity.png)
 
 The figure illustrates the standard components for encoding and communicating Moving Features data. The boxes drawn in the figure portray the modules defined in the OGC Moving Features standard.
 
@@ -33,7 +33,7 @@ The figure illustrates the standard components for encoding and communicating Mo
 
 OGC Moving Features Encoding Part I: XML Core is represented by an XML data encoding for moving points and their trajectories. The format is an extensible format to model and encode movement data for features encoded as point geometries.
 
-![text](tracks.png)
+![text](/img/tracks.png)
 
 The basic data model of OGC Moving Features is inheriting existing standard ISO19141:2008 Moving Features.
 The above figure illustrates the concepts of foliation, prism, trajectory, and leaf, which are defined in ISO19141:2008[ISO 19141:2008]. In the illustration, a 2D rectangle moves and rotates. Each representation of the rectangle at a given time is a leaf. The path traced by each corner point of the rectangle is a trajectory. The set of points contained in all of the leaves, and in all of the trajectories, forms a prism. The set of leaves also forms a foliation.
